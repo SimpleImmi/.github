@@ -1,5 +1,5 @@
-# Simple Immi
+# Immiva
 
 **Making U.S. Immigration Simple**
 
-[https://simpleimmi.com](https://simpleimmi.com)
+[https://immiva.com](https://immiva.com)
